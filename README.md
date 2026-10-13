@@ -2,7 +2,7 @@
 
 **Subject:** Natural Language Processing (NLP)
 **Project Type:** NLP-Based Application
-**GitHub Repository:** https://github.com/VishveshSharma2005/Nexus_FinX
+**GitHub Repository:** https://github.com/VishveshSharma2005/FinX-NLP
 
 ## 1. Introduction
 
