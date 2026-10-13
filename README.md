@@ -144,4 +144,4 @@ The project shows how NLP techniques can transform unstructured text into useful
 4. Reimers, N. and Gurevych, I. (2019). *Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.*
 5. Hugging Face Documentation: https://huggingface.co/docs
 6. FastAPI Documentation: https://fastapi.tiangolo.com/
-7. Project Repository: https://github.com/VishveshSharma2005/Nexus_FinX
+7. Project Repository: https://github.com/VishveshSharma2005/FinX-NLP
